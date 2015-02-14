@@ -4,7 +4,7 @@
 
 Public outcry over accidents involving losses of life has driven many space programs to adopt risk-averse stances, reducing the number of crewed missions and intensely studying and validating the crewed missions and vehicles remaining.  We at KAA Aeronautics and Astronautics have decided to support these efforts by creating a space program that has no Kerbal involvement whatsoever.  Presenting KAINET, the KAA Artificial Intelligence Network for Exploration, with Techtree!
 
-https://github.com/Kerbas-ad-astra/KAINET/blob/master/KAINET%20logo.png?raw=true
+![KAINET logo](https://github.com/Kerbas-ad-astra/KAINET/blob/master/KAINET%20logo.png)
 
 KAINET (rhymes with "Skynet") was inspired by an idle thought of mine: "What would it take to make a space program with no Kerbals in it?"  The more I thought about it, the more challenging I realized it would be.  For all of our jokes about their lack of common sense, Kerbals are handy critters to have around -- they can repack parachutes, pick up science, transfer supplies, and repair broken landing gear.  Unless there's a way for spacecraft to do the same things themselves, (not to my knowledge), the only way to "repair" things is to put it on a module that can be removed and replaced.  This has to be done using docking ports, since no Kerbals means no Kerbal Attachment System.  No Kerbals also means no building rockets with Extraplanetary Launchpads, so spare parts have to come all the way from Kerbin.  I guess this means the Kerbal universe is safe from self-replicating machines for the time being, though taniwha did mention having ideas for a separate mod enabling robots to build things when I brought this up in the EPL thread...
 
