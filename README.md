@@ -52,4 +52,4 @@ The source for this addon is hosted on GitHub.  (The whole thing is pretty much 
 
 ##License
 
-This addon is copyright 2015 Kerbas_ad_astra.  Configuration files are released under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).  All other rights reserved.
+This addon is copyright 2015 Kerbas_ad_astra.  Configuration files are released under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).  All other rights (e.g. the KAINET logo) reserved.
