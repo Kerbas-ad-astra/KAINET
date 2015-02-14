@@ -12,11 +12,11 @@ Anyway, since tech-tree mods seem to be all the rage these days, I figured I'd p
 
 For extra immersion, go into your settings and disable the space center crew.
 
-#Dependencies
+##Dependencies
 
 Depends on [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) to function.
 
-#Download and install
+##Download and install
 
 * Download from CurseForge
 * Download from KerbalStuff
@@ -24,7 +24,7 @@ Depends on [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) t
 
 From there, just unzip the "KAINET" folder into your GameData directory.
 
-#Recommended addons
+##Recommended addons
 
 * [Contract Configurator](http://forum.kerbalspaceprogram.com/threads/101604) and [InitialContracts](https://kerbalstuff.com/mod/577/InitialContracts) to get rid of the initial altitude-record contracts which require a Kerbal, and replace them with similar contracts that don't.
 * Flag Decals pack from [SciFi Shipyards](http://forum.kerbalspaceprogram.com/threads/37908) for flags that don't require Kerbals (including a folding flag).  Sadly, they don't act as flags for the purposes of contracts, nor do they appear as flags on a map, nor can they be given plaques, but they look cool!
@@ -32,24 +32,24 @@ From there, just unzip the "KAINET" folder into your GameData directory.
 * [Ship Manifest](http://forum.kerbalspaceprogram.com/threads/62270) to allow "unkerbed" (:wink:) transfer of science.
 * Starwaster's [Probe Science patches](http://forum.kerbalspaceprogram.com/threads/56137) to allow probe cores to do more science themselves.  If these patches are present, and specifically are in a folder by the name "StarwasterSciencePatches" (as they are in the package by default), then this patch will alter survey contracts instead of suppressing them, to allow probes to perform their equivalent experiments.
 
-#Version history
+##Version history
 
 * 1.0 (2015 Feb 14): You're looking at it!
 
-#Known and anticipated issues
+##Known and anticipated issues
 
 Do note that this patch will apply to all saves on its install!  It won't destroy any ships in flight or in the editor that have crewed parts, but you won't be able to make any new ones!
 
-#Roadmap
+##Roadmap
 
 I'm pretty happy with this patch as it is, but if you want to see any changes, suggest them here or contribute to the GitHub repository.  Is there a way to get rid of those initial contracts without depending on Contract Configurator?  I'd look at how Contract Configurator does it, but (a) I'm worried that it will require a custom DLL and (b) Contract Configurator's license is incompatible with KAINET's (in addition to being [generally inappropriate for a software project](https://wiki.creativecommons.org/Frequently_Asked_Questions#Can_I_apply_a_Creative_Commons_license_to_software.3F) -- if Contract Configurator were released under the GPL, I would be totally fine with using some of its code and then inheriting that license).
 
 I'm also working on a series of modular vehicles that can be suitable for KAINET missions.  I'll probably put up a thread about them in The Spacecraft Exchange as they're made.
 
-#Source
+##Source
 
 The source for this addon is hosted on GitHub.  (The whole thing is pretty much its own source.)
 
-#License
+##License
 
 This addon is copyright 2015 Kerbas_ad_astra.  Configuration files are released under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).  All other rights reserved.
