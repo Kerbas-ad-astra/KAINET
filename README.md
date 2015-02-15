@@ -18,9 +18,9 @@ Depends on [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219) t
 
 ##Download and install
 
-* Download from CurseForge
-* Download from KerbalStuff
-* Download from GitHub
+* Download from [CurseForge](http://kerbal.curseforge.com/ksp-mods/227824-kainet-kaa-artificial-intelligence-network-for)
+* Download from [KerbalStuff](https://kerbalstuff.com/mod/592/KAINET:%20KAA%20Artificial%20Intelligence%20Network%20for%20Exploration%2C%20with%20Techtree)
+* Download from [GitHub](https://github.com/Kerbas-ad-astra/KAINET/releases)
 
 From there, just unzip the "KAINET" folder into your GameData directory.
 
@@ -34,11 +34,15 @@ From there, just unzip the "KAINET" folder into your GameData directory.
 
 ##Version history
 
-* 1.0 (2015 Feb 14): You're looking at it!
+* 1.0 (2015 Feb 14): Initial release.
+* 1.0.1 (2015 Feb 15): Tweaks after some initial playtesting and revision.
+	* Z-100 batteries moved earlier, into "Survivability".
+	* Made the contract config patches less brittle -- no longer dependent on the order of blocks in Contracts.cfg.
 
 ##Known and anticipated issues
 
-Do note that this patch will apply to all saves on its install!  It won't destroy any ships in flight or in the editor that have crewed parts, but you won't be able to make any new ones!
+* This patch will apply to all saves on its install!  It won't destroy any ships in flight or in the editor that have crewed parts, but you won't be able to make any new ones!
+* It seems that the first couple of survey missions may be hard-coded to be "Crew Report", in spite of the Probe Science patches being active.  Just decline them and the next ones should use the Probe Science stuff.  Alternatively, you can use the Mod+F12 ("cheat") menu to cancel or complete these missions if you accidentally accept them (the same goes for the altitude records).
 
 ##Roadmap
 
@@ -48,7 +52,7 @@ I'm also working on a series of modular vehicles that can be suitable for KAINET
 
 ##Source
 
-The source for this addon is hosted on GitHub.  (The whole thing is pretty much its own source.)
+The source for this addon is hosted on [GitHub](https://github.com/Kerbas-ad-astra/KAINET).  (The whole thing is pretty much its own source.)
 
 ##License
 
