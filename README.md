@@ -38,6 +38,8 @@ From there, just unzip the "KAINET" folder into your GameData directory.
 * 1.0.1 (2015 Feb 15): Tweaks after some initial playtesting and revision.
 	* Z-100 batteries moved earlier, into "Survivability".
 	* Made the contract config patches less brittle -- no longer dependent on the order of blocks in Contracts.cfg.
+* 1.0.2 (2015 XX): Adapted for Probe Science changes
+	* No longer produces contracts for Probe Science (now that Probe Science makes them itself).
 
 ##Known and anticipated issues
 
