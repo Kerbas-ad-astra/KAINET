@@ -38,7 +38,9 @@ From there, just unzip the "NoAstronautsNeedApply" folder into your GameData dir
 * 1.0.1 (2015 Feb 15): Tweaks after some initial playtesting and revision.
 	* Z-100 batteries moved earlier, into "Survivability".
 	* Made the contract config patches less brittle -- no longer dependent on the order of blocks in Contracts.cfg.
-* 1.1 (2015 XX): Updated for 1.0	* Renamed from "KAINET" to "No Astronauts Need Apply".  It's more descriptive, and I want to use the KAINET name and flag for something else...
+* 1.1 (2015 XX): Updated for 1.0
+	* Renamed from "KAINET" to "No Astronauts Need Apply".  It's more descriptive, and I want to use the KAINET name and flag for something else...
+
 ##Known and anticipated issues
 
 * This patch will apply to all saves on its install!  It won't destroy any ships in flight or in the editor that have crewed parts, but you won't be able to make any new ones!
