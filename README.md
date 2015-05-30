@@ -28,7 +28,7 @@ From there, just unzip the "NoAstronautsNeedApply" folder into your GameData dir
 
 * Flag Decals pack from [SciFi Shipyards](http://forum.kerbalspaceprogram.com/threads/37908) for flags that don't require Kerbals (including a folding flag).  Sadly, they don't act as flags for the purposes of contracts, nor do they appear as flags on a map, nor can they be given plaques, but they look cool!
 * [Infernal Robotics](http://forum.kerbalspaceprogram.com/threads/37707) for articulation bits to help with assembly and "repair".  Its [model rework](http://forum.kerbalspaceprogram.com/threads/65365) is really slick as well.
-* [Ship Manifest](http://forum.kerbalspaceprogram.com/threads/62270) to allow "unkerbed" (:wink:) transfer of science.  (This mod's config includes a patch that allows all probe cores to become science containers, so heavy experiments can be left behind after they are consumed.)
+* [Ship Manifest](http://forum.kerbalspaceprogram.com/threads/62270) to allow "unkerbed" (:wink:) transfer of science.  (This mod's config includes a patch that allows all probe cores to become science containers, so science results can be drained from heavy experiments.)
 * Starwaster's [Probe Science patches](http://forum.kerbalspaceprogram.com/threads/56137) to allow probe cores to do more science themselves.  If these patches are present, and specifically are in a folder by the name "StarwasterSciencePatches" (as they are in the package by default), then NANA will only suppress survey contracts whose "experiments" require a crew (i.e. Crew Report, EVA Report, Surface Sample).
 
 ##Version history
@@ -37,23 +37,22 @@ From there, just unzip the "NoAstronautsNeedApply" folder into your GameData dir
 * 1.0.1 (2015 Feb 15): Tweaks after some initial playtesting and revision.
 	* Z-100 batteries moved earlier, into "Survivability".
 	* Made the contract config patches less brittle -- no longer dependent on the order of blocks in Contracts.cfg.
-* 1.1 (2015 XX): Updated for 1.0
-	* Renamed from "KAINET" to "No Astronauts Need Apply".  It's more descriptive, and I want to use the KAINET name and flag for something else...
+* 1.1 (2015 XX): Updated for 1.0.
+	* Also, renamed from "KAINET" to "No Astronauts Need Apply".  It's more descriptive, and I want to use the KAINET name and flag for something else...
 
 ##Known and anticipated issues
 
 * This patch will apply to all saves on its install!  It won't destroy any ships in flight or in the editor that have crewed parts, but you won't be able to make any new ones!
-* It seems that the first couple of survey missions may be hard-coded to be "Crew Report", in spite of the Probe Science patches being active.  Just decline them and the next ones should use the Probe Science stuff.  Alternatively, you can use the Mod+F12 ("cheat") menu to cancel or complete these missions if you accidentally accept them (the same goes for the altitude records).
 
 ##Roadmap
 
-I'm pretty happy with this patch as it is, but if you want to see any changes, suggest them here or contribute to the GitHub repository.  I might make a custom DLL to rip out and replace the early altitude record and survey missions without ContractConfigurator and InitialContracts, but they work just fine, I don't yet know how to make custom modules, and 1.0 is coming soon-ish anyway (and thus the contract system may be disrupted), so it's not a high priority.
+I'm pretty happy with this patch as it is, but if you want to see any changes, suggest them here or contribute to the GitHub repository.
 
 I'm also working on a series of modular vehicles that can be suitable for NANA missions.  I'll probably put up a thread about them in The Spacecraft Exchange as they're made.
 
 ##Source
 
-The source for this addon is hosted on [GitHub](https://github.com/Kerbas-ad-astra/NoAstronautsNeedApply).  (The whole thing is pretty much its own source.)
+The source for this addon is hosted on [GitHub](https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply).  (The whole thing is pretty much its own source.)
 
 ##License
 
