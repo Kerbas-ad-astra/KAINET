@@ -37,7 +37,7 @@ From there, just unzip the "NoAstronautsNeedApply" folder into your GameData dir
 * 1.0.1 (2015 Feb 15): Tweaks after some initial playtesting and revision.
 	* Z-100 batteries moved earlier, into "Survivability".
 	* Made the contract config patches less brittle -- no longer dependent on the order of blocks in Contracts.cfg.
-* 1.1 (2015 XX): Updated for 1.0.
+* 1.1 (2015 May 30): Updated for 1.0.
 	* Also, renamed from "KAINET" to "No Astronauts Need Apply".  It's more descriptive, and I want to use the KAINET name and flag for something else...
 
 ##Known and anticipated issues
