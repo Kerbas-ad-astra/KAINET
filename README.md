@@ -4,7 +4,7 @@
 
 The public has had enough of disaster-prone missions and "space cowboy" agencies whose ambitions are larger than their capabilities.  KSC administrators' protests that new safety regulations would cause crewed missions to become impractically expensive have fallen on deaf ears.  With heavy hearts, they have updated their hiring notices to reflect the new reality: *No Astronauts Need Apply.*
 
-![No Astronauts Need Apply logo](https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply/blob/master/No%20Astronauts%20Need%20Apply%20logo.png)
+![No Astronauts Need Apply logo](https://raw.githubusercontent.com/Kerbas-ad-astra/No-Astronauts-Need-Apply/master/No%20Astronauts%20Need%20Apply%20logo.png)
 
 "No Astronauts Need Apply" was inspired by an idle thought of mine: "What would it take to make a space program with no Kerbals in it?"  The more I thought about it, the more challenging I realized it would be.  For all of our jokes about their lack of common sense, Kerbals are handy critters to have around -- they can repack parachutes, pick up science, transfer supplies, and repair broken landing gear.  Unless there's a way for spacecraft to do the same things themselves (not to my knowledge), the only way to "repair" things is to put it on a module that can be removed and replaced.  This has to be done using docking ports, since no Kerbals means no Kerbal Attachment System.  No Kerbals also means no building rockets with Extraplanetary Launchpads, so spare parts have to come all the way from Kerbin.  I guess this means the Kerbal universe is safe from self-replicating machines for the time being, though taniwha did mention having ideas for a separate mod enabling robots to build things when I brought this up in the EPL thread...
 
