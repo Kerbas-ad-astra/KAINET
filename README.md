@@ -20,7 +20,6 @@ Depends on [**Module Manager**](http://forum.kerbalspaceprogram.com/threads/5521
 
 * Download from [**GitHub**](https://github.com/Kerbas-ad-astra/No-Astronauts-Need-Apply/releases)
 * Download from [**CurseForge**](http://kerbal.curseforge.com/ksp-mods/227824-no-astronauts-need-apply)
-* Download from [**KerbalStuff**](https://kerbalstuff.com/mod/1048/No%20Astronauts%20Need%20Apply)
 
 From there, just unzip the "NoAstronautsNeedApply" folder into your GameData directory.  (Delete the "KAINET" folder if you have it from a previous install.)
 
